@@ -1,0 +1,10 @@
+{
+  "id": "ieee-access",
+  "name": "IEEE Access",
+  "fullName": "IEEE Access",
+  "kind": "journal",
+  "tier": "中科院3区 · SCI",
+  "latexClass": "IEEEtran",
+  "officialUrl": "https://ieeeaccess.ieee.org",
+  "looksLike": "IEEEtran journal 双栏，刊名 IEEE Access"
+}
