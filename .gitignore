@@ -1,4 +1,5 @@
 ﻿.git/
+academic/*/paper/
 *.pt
 *.ckpt
 *.onnx
