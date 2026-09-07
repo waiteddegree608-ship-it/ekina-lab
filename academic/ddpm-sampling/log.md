@@ -20,6 +20,13 @@ CODER 完成 task_f47ca83eff：将 Run 004 三个核心卖点融入 main2.tex。
 
 注意：CODER 因远程主机解析失败，操作基于本地副本完成。需要主人确认是否将修改后的 main2.tex 同步回远程服务器。
 
+## 2026-09-07 · GitHub 写稿画布已开
+
+没有现成 Overleaf 项目也可以写。已把 Run 004 稿开成独立私有仓并 push：
+- 本地：`lab/academic/ddpm-sampling/paper/main.tex`
+- GitHub：https://github.com/waiteddegree608-ship-it/ekina-paper-ddpm-sampling
+- Overleaf：token 不能新建项目。主人建一个空白项目，把 Menu → Git 地址发来，之后自动 push。
+
 ## 2026-09-07 · Run 004 卖点已同步到远程 glph6jf7
 
 CODER 通过 SSH 连接 instance-glph6jf7.suzhou.smartml.cn:16031，完成 task_f47ca83eff：将 Run 004 卖点融入 DDPM 论文 main2.tex。
