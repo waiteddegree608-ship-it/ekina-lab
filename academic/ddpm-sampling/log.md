@@ -25,7 +25,7 @@ CODER 完成 task_f47ca83eff：将 Run 004 三个核心卖点融入 main2.tex。
 没有现成 Overleaf 项目也可以写。已把 Run 004 稿开成独立私有仓并 push：
 - 本地：`lab/academic/ddpm-sampling/paper/main.tex`
 - GitHub：https://github.com/waiteddegree608-ship-it/ekina-paper-ddpm-sampling
-- Overleaf：token 不能新建项目。主人建一个空白项目，把 Menu → Git 地址发来，之后自动 push。
+- Overleaf 写稿桌已接通并推上 Run 004 稿：https://www.overleaf.com/project/6a9e2c491caef01ad127a11e
 
 ## 2026-09-07 · Run 004 卖点已同步到远程 glph6jf7
 
